@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'snitin315', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-demo', // Usually your repo name.
+  projectName: 'docusauras-demo', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
